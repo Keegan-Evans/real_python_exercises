@@ -10,3 +10,10 @@ dependencies:
   - sqlalchemy
   - sqlite
   - ipython
+  - jupyter
+  - flake8
+  - pydocstyle
+  - black
+
+imports:
+  - datro
