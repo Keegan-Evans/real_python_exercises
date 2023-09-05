@@ -1,0 +1,9 @@
+name: data-management
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - sqlalchemy
+  - sqlite
+  - pandas
